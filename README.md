@@ -30,6 +30,6 @@
     <p>BAMX</p>    
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geek-deer&show_icons=true&locale=en&layout=compact" alt="geek-deer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geek-deer&show_icons=true&locale=en&layout=donut&langs_count=10&size_weight=0.5&count_weight=0.5" alt="geek-deer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geek-deer&show_icons=true&locale=en" alt="geek-deer" /></p>
