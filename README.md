@@ -28,11 +28,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geek-deer&show_icons=true&locale=en /></p> 
 
-
-<p align="left">
-<h3>My best projects</h3>
-    <a href="https://github.com/Geek-Deer/BAMX-Food-Bank-App" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/141671966?s=64&v=4" alt="BAMX" width="80" height="80"/> </a>
-    <p>BAMX</p>
-    
-    
-</p>
