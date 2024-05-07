@@ -1,4 +1,4 @@
-<img width="1834" alt="👋 Hi, I'm Diego Luna" src="[[https://github.com/Geek-Deer/Geek-Deer/assets/65331011/16b85799-3659-423a-ac5e-0d3a7024c79c](https://private-user-images.githubusercontent.com/65331011/328699060-b619d174-3195-4c06-976b-b8b1dea4f76a.png)](https://github.com/Geek-Deer/Geek-Deer/assets/65331011/835443b7-716d-4570-b1f5-b4e19c6d2fc8)">
+<img width="1834" alt="👋 Hi, I'm Diego Luna" src="https://github.com/Geek-Deer/Geek-Deer/assets/65331011/835443b7-716d-4570-b1f5-b4e19c6d2fc8">
 
 <h3 align="center">Fullstack developer from México, ready to take a challenge</h3>
 
