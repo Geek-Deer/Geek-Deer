@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Diego Luna</h1>
+<img width="1834" alt="👋 Hi, I'm Diego Luna" src="https://github.com/Geek-Deer/Geek-Deer/assets/65331011/16b85799-3659-423a-ac5e-0d3a7024c79c">
+
 <h3 align="center">A passionate fullstack developer from México</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=monokai"><img src="https://github-profile-trophy.vercel.app/?username=geek-deer" alt="geek-deer" /></a> </p>
