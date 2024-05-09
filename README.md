@@ -52,9 +52,11 @@
 
 <h3>My stats</h3>
 <p>
-<img height="20%" width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geek-deer&show_icons=true&locale=en&layout=donut&langs_count=10&size_weight=0.5&count_weight=0.5&bg_color=30,ffd95c,ff688e&text_color=3d3847&title_color=3d3847" alt="geek-deer" /></p>
+<img height="25%" width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geek-deer&show_icons=true&locale=en&layout=donut&langs_count=10&size_weight=0.5&count_weight=0.5&bg_color=30,ffd95c,ff688e&text_color=3d3847&title_color=3d3847" alt="geek-deer" /></p>
 <p>
 <img  height="10%" width ="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=geek-deer&show_icons=true&locale=en&bg_color=30,ffd95c,ff688e&text_color=3d3847&title_color=3d3847" alt="geek-deer" />
+</br>
+</br>
 <img height="10%" width ="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geek-deer&background=30,ffd95c,ff688e&fire=ffff&ring=ffff&currStreakLabel=ffff" alt="Geek-Deer"/>
 </p>
 
