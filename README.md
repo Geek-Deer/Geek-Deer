@@ -4,16 +4,15 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=geek-deer&theme=monokai" alt="geek-deer"/> </p>
 
-- 🌱 I’m currently learning *Cloud Native development*
-
 <h3>I'm currently working at:</h3>
 <div align="center">
-<img position="relative" margin-bottom="5%" width="40%" src="https://assets-global.website-files.com/65384f64fc0a1608e6828a1c/65c690616fadae3112571dff_Logo%20white%20hexpo.svg">
-<img width="40%" src="https://github.com/Geek-Deer/Geek-Deer/assets/65331011/2a293913-eb0c-4bfe-a4b2-c4e53f09fbaf">
+<a href="https://www.hexpo.mx" target="_blank"><img width="80%" src="https://assets-global.website-files.com/65384f64fc0a1608e6828a1c/65c690616fadae3112571dff_Logo%20white%20hexpo.svg"></a>
+<br/>
+<br/>
+<br/>
+<br/>
+<a href="https://www.liderly.com" target="_blank"><img width="40%" src="https://github.com/Geek-Deer/Geek-Deer/assets/65331011/216befb0-0661-47ec-a0f8-675ebc668470"></a>
 </div>
-
-
-
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
@@ -28,8 +27,8 @@
 
 <h3 align="center">Competitive Programmer 🤯</h3>
 <div align="center">
-<a><img width="5%" alt="OmegaUp" src="https://github.com/Geek-Deer/Geek-Deer/assets/65331011/94085fe0-e566-4b74-865e-1f66ae8c9d67"></a>
-<a><img width="5%" alt="CodeForces" src="https://github.com/Geek-Deer/Geek-Deer/assets/65331011/937575e7-9715-4ac7-9334-0a4c36c0ef0f"></a>
+<a href="https://omegaup.com/profile/GeekDeer" target="_blank"><img width="5%" alt="OmegaUp" src="https://github.com/Geek-Deer/Geek-Deer/assets/65331011/94085fe0-e566-4b74-865e-1f66ae8c9d67"></a>
+<a href="https://codeforces.com/profile/GeekDeer" target="_blank"><img width="5%" alt="CodeForces" src="https://github.com/Geek-Deer/Geek-Deer/assets/65331011/937575e7-9715-4ac7-9334-0a4c36c0ef0f"></a>
 </div>
 
 
