@@ -27,8 +27,8 @@
 
 <h3 align="center">Competitive Programmer 🤯</h3>
 <div align="center">
-<a href="https://omegaup.com/profile/GeekDeer" target="_blank"><img width="5%" alt="OmegaUp" src="https://github.com/Geek-Deer/Geek-Deer/assets/65331011/94085fe0-e566-4b74-865e-1f66ae8c9d67"></a>
-<a href="https://codeforces.com/profile/GeekDeer" target="_blank"><img width="5%" alt="CodeForces" src="https://github.com/Geek-Deer/Geek-Deer/assets/65331011/937575e7-9715-4ac7-9334-0a4c36c0ef0f"></a>
+<a href="https://omegaup.com/profile/GeekDeer" target="_blank"><img width="5%" alt="OmegaUp" src="https://github.com/Geek-Deer/Geek-Deer/assets/65331011/937575e7-9715-4ac7-9334-0a4c36c0ef0f"></a>
+<a href="https://codeforces.com/profile/GeekDeer" target="_blank"><img width="5%" alt="CodeForces" src="https://github.com/Geek-Deer/Geek-Deer/assets/65331011/94085fe0-e566-4b74-865e-1f66ae8c9d67"></a>
 </div>
 
 
