@@ -45,9 +45,9 @@
 <h3>My best projects</h3>
 
 <div align="center">
-<a href="https://github.com/Geek-Deer/BAMX-Food-Bank-App" target="_blank"><img src="https://github.com/Geek-Deer/Geek-Deer/assets/65331011/50c05c65-7750-480a-9dcf-768596ce4054" width="20%" alt="BAMX"></a>
+<a href="https://github.com/Geek-Deer/BAMX-Food-Bank-App" target="_blank"><img src="https://github.com/Geek-Deer/Geek-Deer/assets/65331011/dd9434fa-e010-4833-bda6-21ccee523490" width="20%" alt="BAMX"></a>
 <a href="https://github.com/Geek-Deer/Dog-E" target="_blank"><img src="https://github.com/Geek-Deer/Geek-Deer/assets/65331011/497e3bb4-ca96-413b-9455-d0719af51161" width="20%" alt="Dog-E"></a>
-<a href="https://github.com/Geek-Deer/axoloteMarket" target="_blank"><img src="https://github.com/Geek-Deer/Geek-Deer/assets/65331011/dd9434fa-e010-4833-bda6-21ccee523490" width="20%" alt="AxolotlMarket"></a>
+<a href="https://github.com/Geek-Deer/axoloteMarket" target="_blank"><img src="https://github.com/Geek-Deer/Geek-Deer/assets/65331011/50c05c65-7750-480a-9dcf-768596ce4054" width="20%" alt="AxolotlMarket"></a>
 </div>
 
 <h3>My stats</h3>
