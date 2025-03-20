@@ -6,7 +6,7 @@
 
 <h3>I'm currently working at:</h3>
 <div align="center">
-<a href="https://www.hexpo.mx" target="_blank"><img width="80%" src="https://assets-global.website-files.com/65384f64fc0a1608e6828a1c/65c690616fadae3112571dff_Logo%20white%20hexpo.svg"></a>
+<a href="https://www.kodda.com" target="_blank"><img width="80%" src="https://github.com/user-attachments/assets/d1d64584-5352-4384-ae72-1e4131bb8485"></a>
 <br/>
 <br/>
 <br/>
