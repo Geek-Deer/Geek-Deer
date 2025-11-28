@@ -4,9 +4,8 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=geek-deer&theme=monokai" alt="geek-deer"/> </p>
 
-<h3>I'm currently working at:</h3>
-<div align="center">
-<a href="https://www.kodda.com" target="_blank"><img width="80%" src="https://github.com/user-attachments/assets/d1d64584-5352-4384-ae72-1e4131bb8485"></a>
+
+<a href="https://www.kodda.com" target="_blank"><img width="60%" src="https://github.com/user-attachments/assets/d1d64584-5352-4384-ae72-1e4131bb8485"></a>
 <br/>
 <br/>
 <br/>
